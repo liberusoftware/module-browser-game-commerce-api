@@ -3,7 +3,7 @@
   "name": "browser-game-commerce-api",
   "display_name": "Browser Game Commerce API",
   "description": "Versioned authenticated commerce catalog API.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\CommerceApi\\CommerceApiServiceProvider",
   "requires": {
